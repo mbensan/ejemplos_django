@@ -1,0 +1,6 @@
+Mostrar un template con una lista de 4 imágenes
+de la web
+Hint: Utitice el tag IMG
+
+Ti 18:30
+Tf 18:44
